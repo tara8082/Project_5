@@ -8,7 +8,7 @@ Publicly available PlantVillage Dataset
 ## Tools Used:
 
 - Keras
-- Matplotlip
+- Matplotlib
 - SciKitLearn
 - Numpy
 
