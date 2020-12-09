@@ -14,9 +14,6 @@ Publicly available PlantVillage Dataset
 
 
 ## Conclusions
+Neural networks are an effective method for detecting plant disease through image classification.
 
-
-
-
-## Outline of Files
 
